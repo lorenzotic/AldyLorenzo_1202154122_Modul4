@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">ALDY_1202154122_MODUL4</string>
+    <string name="list_nama_mahasiswa">List Nama Mahasiswa</string>
+
+    <string name="cari_gambar">Cari Gambar</string>
+
+    <string name="mulai_asynctask">Mulai AsyncTask</string>
+
+    <string name="masukkan_url_gambar">Masukkan URL Gambar</string>
+
+    <string name="klik_mencari_gambar">Klik untuk mencari gambar</string>
+
+    <string name="link_gambar">https://cdns.klimg.com/merdeka.com/i/w/news/2015/10/05/604375/670x335/sejarah-heroik-kenapa-bekasi-disebut-kota-patriot.jpg</string>
+
+    <!-- buat array -->
+
+    <string-array name="names">
+
+        <item>Suimin</item>
+
+        <item>Bajuri</item>
+
+        <item>Emen</item>
+
+        <item>Edi</item>
+
+        <item>Sumadi</item>
+
+        <item>Suwardi</item>
+
+        <item>Mulyadi</item>
+
+        <item>Dias</item>
+
+        <item>Jikoy</item>
+
+        <item>Memet</item>
+
+        <item>Aweu</item>
+
+    </string-array>
+</resources>
